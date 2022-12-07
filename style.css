@@ -1,0 +1,60 @@
+body {
+    background-image: url(https://files.123freevectors.com/wp-content/original/118883-abstract-bright-red-wave-business-background-vector.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header {
+    color: #333;
+    font-size: 45px;
+    text-align: center;
+    text-shadow: 2px 2px 5px black;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.bloco {
+    width: 69%;
+}
+
+.vagas {
+    width: 128%;
+}
+
+.vagas2 {
+    width: 120%;
+}
+
+.vagas3 {
+    width: 110%;
+}
+
+.vagas4 {
+    width: 100%;
+}
+
+ul {
+    border: 5px rgb(63, 45, 22) solid;
+    font-style: inherit;
+    font-size: 25px;
+    background-color: rgb(148, 9, 9);
+    color: #111;
+}
+
+li {
+    border: 2px #333 solid;
+    background-color: bisque;
+}
+
+.lista { 
+    font-style: inherit;
+}
+
+footer {
+    margin-top: 10px;
+    text-align: center;
+    background-color: #c60b05;
+}
